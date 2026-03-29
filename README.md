@@ -36,7 +36,7 @@ ChatGPT 在对话变长之后变卡，主要原因是页面中累积了大量 DO
 Firefox方法类似，请自行谷歌，反正就是开发者模式加载扩展。
 
 
-给我买包辣条
+喜欢的话给我买包辣条
 
 <img width="289" height="292" alt="image" src="https://github.com/user-attachments/assets/a4e3f0dd-ebc0-414a-9d90-770f4c07a495" />
 
