@@ -51,7 +51,7 @@ function shouldKeepExpanded(el) {
   const rect = el.getBoundingClientRect();
   const viewportHeight = window.innerHeight;
 
-  return rect.bottom > -50 && rect.top < viewportHeight + 50;//上下50px开始加载
+  return rect.bottom > -100 && rect.top < viewportHeight + 100;//上下50px开始加载
 }
 
 function processMessages() {
@@ -80,7 +80,7 @@ const restoreObserver = new IntersectionObserver((entries) => {
 }, {
   root: null,
   threshold: 0.01,
-  rootMargin: "200px 0px 200px 0px"
+  rootMargin: "100px 0px 100px 0px"
 });
 
 function observeMessages() {
