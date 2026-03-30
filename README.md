@@ -42,9 +42,9 @@ After installation, refresh the ChatGPT page and it should take effect.
 
 Firefox is similar. Just search for how to load an extension in developer mode.
 
-If you like it, buy me a spicy snack.
+If you like it, buy me a bottle of cola, thank you very much.
 
-<img width="289" height="292" alt="image" src="https://github.com/user-attachments/assets/a4e3f0dd-ebc0-414a-9d90-770f4c07a495" />
+USDT TRC20: TWTSX3r61jkZCZBrbiJzF1maSWMuRq6z64
 
 ---
 
