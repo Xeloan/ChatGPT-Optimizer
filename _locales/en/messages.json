@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "ChatGPT Performance Optimizer"
+  },
+  "appDesc": {
+    "message": "Improve ChatGPT performance by collapsing offscreen messages and reducing UI lag."
+  }
+}

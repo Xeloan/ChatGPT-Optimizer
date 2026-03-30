@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "ChatGPT 聊天性能优化"
+  },
+  "appDesc": {
+    "message": "通过折叠视口外消息优化长对话渲染，减少卡顿"
+  }
+}
