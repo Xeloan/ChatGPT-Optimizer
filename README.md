@@ -1,5 +1,8 @@
 # ChatGPT Web Performance Optimizer
 
+This project is NOT allowed for commercial use.
+Unauthorized redistribution is prohibited.
+
 A Chrome extension designed to reduce lag in long ChatGPT conversations.  
 Normally, the ChatGPT web app can become very slow after a conversation gets long, sometimes to the point where even typing feels delayed character by character.
 
